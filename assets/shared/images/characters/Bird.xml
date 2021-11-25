@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bird.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FreeBirdDown0000" x="0" y="0" width="356" height="242" frameX="0" frameY="-19" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0001" x="0" y="0" width="356" height="242" frameX="0" frameY="-19" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0002" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0003" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0004" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0005" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0006" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0007" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0008" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0009" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0010" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0011" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0012" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0013" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdDown0014" x="403" y="0" width="329" height="262" frameX="-14" frameY="0" frameWidth="356" frameHeight="262"/>
+	<SubTexture name="FreeBirdIdle0000" x="779" y="0" width="405" height="446" frameX="0" frameY="-26" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0001" x="779" y="0" width="405" height="446" frameX="0" frameY="-26" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0002" x="1231" y="0" width="390" height="461" frameX="-10" frameY="-11" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0003" x="1231" y="0" width="390" height="461" frameX="-10" frameY="-11" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0004" x="0" y="508" width="384" height="468" frameX="-14" frameY="-4" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0005" x="0" y="508" width="384" height="468" frameX="-14" frameY="-4" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0006" x="431" y="508" width="381" height="472" frameX="-16" frameY="0" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0007" x="431" y="508" width="381" height="472" frameX="-16" frameY="0" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0008" x="431" y="508" width="381" height="472" frameX="-16" frameY="0" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0009" x="431" y="508" width="381" height="472" frameX="-16" frameY="0" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0010" x="431" y="508" width="381" height="472" frameX="-16" frameY="0" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0011" x="431" y="508" width="381" height="472" frameX="-16" frameY="0" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0012" x="431" y="508" width="381" height="472" frameX="-16" frameY="0" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdIdle0013" x="431" y="508" width="381" height="472" frameX="-16" frameY="0" frameWidth="405" frameHeight="472"/>
+	<SubTexture name="FreeBirdLeft0000" x="859" y="508" width="267" height="305"/>
+	<SubTexture name="FreeBirdLeft0001" x="859" y="508" width="267" height="305"/>
+	<SubTexture name="FreeBirdLeft0002" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0003" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0004" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0005" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0006" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0007" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0008" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0009" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0010" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0011" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0012" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0013" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdLeft0014" x="1173" y="508" width="255" height="305" frameX="-12" frameY="0" frameWidth="267" frameHeight="305"/>
+	<SubTexture name="FreeBirdRight0000" x="1475" y="508" width="396" height="296"/>
+	<SubTexture name="FreeBirdRight0001" x="1475" y="508" width="396" height="296"/>
+	<SubTexture name="FreeBirdRight0002" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0003" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0004" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0005" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0006" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0007" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0008" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0009" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0010" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0011" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0012" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0013" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdRight0014" x="0" y="1027" width="383" height="296" frameX="0" frameY="0" frameWidth="396" frameHeight="296"/>
+	<SubTexture name="FreeBirdUp0000" x="430" y="1027" width="338" height="491" frameX="-20" frameY="0" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0001" x="430" y="1027" width="338" height="491" frameX="-20" frameY="0" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0002" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0003" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0004" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0005" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0006" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0007" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0008" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0009" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0010" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0011" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0012" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0013" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+	<SubTexture name="FreeBirdUp0014" x="815" y="1027" width="369" height="480" frameX="0" frameY="-10" frameWidth="369" frameHeight="491"/>
+</TextureAtlas>

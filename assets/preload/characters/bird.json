@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FreeBirdIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				-237
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FreeBirdRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-216
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FreeBirdLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-310
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FreeBirdDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				28
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FreeBirdUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bird",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "birdIcons",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		0,
+		60
+	],
+	"camera_position": [
+		-40,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}
